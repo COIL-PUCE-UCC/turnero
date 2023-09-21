@@ -1,0 +1,3 @@
+D:/Ucc/Programacion 3/Parcial Turnero T1/cmake-build-debug/CMakeFiles/Parcial_Turnero_T1.dir
+D:/Ucc/Programacion 3/Parcial Turnero T1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ucc/Programacion 3/Parcial Turnero T1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
